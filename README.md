@@ -1,24 +1,3 @@
-# README
+# Library App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project went pretty well. It seems, for me, the most challenging part is setting up the right associations/relationships to make sure that both models reference one another. Sometimes, I have to drop the db once or twice before I get it right. Once that's working properly, it's uphill from there.
